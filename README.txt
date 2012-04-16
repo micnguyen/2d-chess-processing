@@ -1,7 +1,6 @@
-Monash University
-FIT3088 Computer Graphics 
-Assignment 1
-Author: Michael Nguyen, 22042962, mhngu10@student.monash.edu
+** Originally produced as an assignment for Monash University **
+** FIT3088 Computer Graphics, Semester 1, 2012 **
+** Author: Michael Nguyen, contact@mikeyn.net **
 ---------------
 
 How to play:
